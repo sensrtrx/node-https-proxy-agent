@@ -1,5 +1,5 @@
 {
-  "name": "https-proxy-agent",
+  "name": "@sensrtrx/https-proxy-agent",
   "version": "5.0.0",
   "description": "An HTTP(s) proxy `http.Agent` implementation for HTTPS",
   "main": "dist/index",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/node-https-proxy-agent.git"
+    "url": "git://github.com/sensrtrx/node-https-proxy-agent.git"
   },
   "keywords": [
     "https",
@@ -45,7 +45,7 @@
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-jsx-a11y": "6.2.1",
     "eslint-plugin-react": "7.12.4",
-    "mocha": "^6.2.2",
+    "mocha": "^6.2.3",
     "proxy": "1",
     "rimraf": "^3.0.0",
     "typescript": "^3.5.3"
