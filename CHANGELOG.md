@@ -1,3 +1,12 @@
+## [5.1.1](https://github.com/sensrtrx/node-https-proxy-agent/compare/v5.1.0...v5.1.1) (2021-02-12)
+
+
+### Bug Fixes
+
+* **npm:** install before publish ([d3956a0](https://github.com/sensrtrx/node-https-proxy-agent/commit/d3956a083e0e7399016edbb5e7756c6fc7b0e49b))
+
+
+
 # [5.1.0](https://github.com/sensrtrx/node-https-proxy-agent/compare/v0.3.6...v5.1.0) (2021-02-12)
 
 
