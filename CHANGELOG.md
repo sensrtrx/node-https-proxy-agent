@@ -1,3 +1,12 @@
+# [5.2.0](https://github.com/sensrtrx/node-https-proxy-agent/compare/v5.1.1...v5.2.0) (2021-02-12)
+
+
+### Features
+
+* **conn:** default to keep alive ([c0ea635](https://github.com/sensrtrx/node-https-proxy-agent/commit/c0ea6359b75a40e6c6abb01ae6530075b9a6f5f1))
+
+
+
 ## [5.1.1](https://github.com/sensrtrx/node-https-proxy-agent/compare/v5.1.0...v5.1.1) (2021-02-12)
 
 
